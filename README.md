@@ -1,3 +1,3 @@
-# DataStructures
+# Data Structures
 
 * Single linked list
